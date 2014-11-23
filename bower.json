@@ -1,0 +1,19 @@
+{
+  "name": "ui-router-inspector",
+  "version": "0.0.1",
+  "authors": [
+    "Sileghem Thomas <tsileghem@neworbit.co.uk>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.13"
+  }
+}
